@@ -1,6 +1,6 @@
-# myapp
+# App Planetas
 
-A new Flutter project.
+Proeto criado por aluna do programa Talento Tech Paraná em orientação do professor responsável pela Disciplina 12 Desenvolvimento de Aplicativos Móveis.
 
 ## Getting Started
 
